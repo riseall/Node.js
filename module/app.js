@@ -8,3 +8,5 @@ console.log(cats);
 console.log(jumlah(3,1));
 
 console.log(keliling(4, 1));
+
+
